@@ -1,0 +1,12 @@
+The Celo Proof of Ship program is a monthly contest designed to incentivize developers to build on the Celo blockchain, a mobile-first, decentralized platform focused on financial inclusion. The program rewards builders based on their project’s impact, tracked through Karma GAP’s project profiles. Participants create on-chain profiles, submit milestones, and provide proof of work (e.g., GitHub commits and on-chain transactions) to compete for rewards, such as the 5,000 cUSD prize pool in Season 2 (running until March 28, 2025).
+
+Key features of the Proof of Ship program powered by Karma GAP include:Easy Project Enrollment: Builders create a project profile on Karma GAP with a compatible Celo wallet (e.g., MetaMask, Rabby) and submit it to the Proof of Ship program with a single transaction.
+
+Milestone and Update Tracking: Projects submit milestones and regular updates, which are evaluated using metrics like GitHub activity and on-chain transactions, integrated with tools like Dune Analytics.
+
+Automated Reward Calculation: Impact metrics from Karma GAP profiles are used to calculate and distribute builder rewards each month.
+
+Community Engagement: Projects can receive endorsements from collaborators and community members, enhancing their on-chain reputation.
+
+This integration creates a seamless, transparent system for tracking contributions and rewarding builders, making Karma GAP an essential tool for the Proof of Ship program.
+
